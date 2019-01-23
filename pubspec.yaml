@@ -5,7 +5,7 @@ author: Tomas Szabo <tomas.szabo@deftomat.com>
 homepage: https://github.com/deftomat/JustJWT
 
 environment:
-  sdk: '>=1.16.0 <2.0.0'
+  sdk: '>=1.16.0 <3.0.0'
 
 dependencies:
   crypto: '^2.0.1'
